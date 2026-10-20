@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/roystondwork-dev/portcheck/releases/download/v0.1.0/portcheck_0.1.0_windows_amd64.zip",
+            "bin": [
+                "portcheck.exe"
+            ],
+            "hash": "86c6fd45ef89b1b5899542aa4302ad191a685aee4d4976092b027fc8d7c470af"
+        },
+        "arm64": {
+            "url": "https://github.com/roystondwork-dev/portcheck/releases/download/v0.1.0/portcheck_0.1.0_windows_arm64.zip",
+            "bin": [
+                "portcheck.exe"
+            ],
+            "hash": "b0c6c73213cce981ffdbc3c9a8f02b6c53a0bc6fc9b8ec980ef3115c90281324"
+        }
+    },
+    "homepage": "https://roystondwork-dev.github.io/portcheck/",
+    "license": "MIT",
+    "description": "See what's using your ports, find free ones, free them up, and check remote hosts."
+}
