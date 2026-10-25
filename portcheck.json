@@ -1,19 +1,19 @@
 {
-    "version": "0.10.1",
+    "version": "0.11.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/roystondwork-dev/portcheck/releases/download/v0.10.1/portcheck_0.10.1_windows_amd64.zip",
+            "url": "https://github.com/roystondwork-dev/portcheck/releases/download/v0.11.0/portcheck_0.11.0_windows_amd64.zip",
             "bin": [
                 "portcheck.exe"
             ],
-            "hash": "86c44d7e5cfcdb4009df5e9d2bd8ae1b2f02ac8cbd797041da044fbd0943aeea"
+            "hash": "76296767a29ce0bb838a654c900f67f973aceda0d1a0f6e31cf8097c5a618e92"
         },
         "arm64": {
-            "url": "https://github.com/roystondwork-dev/portcheck/releases/download/v0.10.1/portcheck_0.10.1_windows_arm64.zip",
+            "url": "https://github.com/roystondwork-dev/portcheck/releases/download/v0.11.0/portcheck_0.11.0_windows_arm64.zip",
             "bin": [
                 "portcheck.exe"
             ],
-            "hash": "4a453de93b2507993ed604e1c93b11760402f39ad5516fd28b160c89f0d071f6"
+            "hash": "f640af841c68c654eaecccf936fbc7df3ca034976930e33f71c09cbd0cecf501"
         }
     },
     "homepage": "https://roystondwork-dev.github.io/portcheck/",
